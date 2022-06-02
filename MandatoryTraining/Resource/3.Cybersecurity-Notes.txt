@@ -1,0 +1,81 @@
+How do attackers work?
+
+1.Register and Identify yourself
+2.Tailgating prohibition - Don't let someone in by using your ID
+3.No open PC - Don't leave PC logged in when you are not availabe
+4.Cupboard keys - Don't place key in drawer or in table. Keep it safe
+5.Do not plug in pendrives in laptop directly. Give it to admin
+6.Network printer's and copy machine's waste should be properly disposed
+7.Router placed by hacker
+8.Don't share information public
+9.Do not login when unknown person called saying he is an employee
+
+
+E-mail & Phishing
+
+1.Opening Email is safe but don't click on links or attachments
+2.Don't trust senders
+3.Check for Layout and spelling mistakes
+4.Check for salutation. Does it start with "Dear Raji" or "Dear user"
+5.Always include request for action. Like clicking link, open attachments (Specified with do it now)
+6.Tempting mail like gifts, rewards.
+7.Place cursor on link to identify original link. (https in url may be http when pointed)
+8.http: password not encrypted, pass as plain text
+9.https: password encrypted
+10.https needs certification but sometimes it could also be fake
+11.The destination address should be same as website name
+12.Destination address: Located between first slash and dot before it. Other things irrelevant
+13.Do not click link instead visit official page and cross verify if links are same
+14.If prompted like fill the form. Do not open instead contact helpdesk for by forwarding the mail for verification
+
+Ransomware
+
+1.Opening attachments that activates malware and it takes all data it finds and encrypts
+2.Receiving mails to pay so the key will be given so it can be decrypted
+3.Bitcoins are mostly the mode of payment so it is difficult to track the user
+4.In most cases the key is not provided
+5.Don't trust sender make possible tests in email
+6.Decline urgent request mails
+7.Doftware upto date
+8.Regular backups
+9.Ask IT for help
+
+Passwords
+
+1.Trying out all combinations and check if it matches hashvalue
+2.Never be dictionary word. Because they try it out
+3."accxyz" password can be cracked in 20sec
+4.Mispell password use symbols,numbers
+5.Form sentences
+6.Change password regularly
+
+Password Management
+
+1.Use password manager if you have access to different websites with different password
+2.Passwords are stored into single file with Encryption
+3.You log into app using password or fingerprint or etc
+4.If you visit website the password manager automatically matches the page with data and logs you in
+5.Check for password manager test
+6.Most frequent password manager: keypass
+7.Free of cost
+8.Stored in local machine and not in cloud
+
+Multifactor Authentication
+
+1.Make your devices as secure devices so you need not always enter 2nd verification process
+
+Secure Workplace
+
+1.Never throw confidential data in dustbin. Instead put in destructor.
+2.Lock your PC
+3. Doubt on persons 
+
+Social Engineering
+
+1.Hackers use Human psychologically and get informations
+2.No one needs your password even administrator
+3.Report suspicious call to helpdesk
+4.Don't plugin unknown usb port
+
+
+

@@ -1,0 +1,29 @@
+Why Security?
+
+APT - Advanced Persistent Threats
+1.Attacks start at weak places then attack several locations
+2.Find their way into central network
+3.They takeover Admin rights
+4.Look into database and get sensitive information without alerting them
+5.Use firewalls,network protection, etc..
+6.They can work on avg of 200 days in company without knowing them
+7.Create alarm systems
+
+Hardening & Patching
+
+1.Hardening - Kicking out everything that is not used and switching on everything that provides additional security
+2.Patching - Most vulnerability reported to manufacturer so they release patch
+
+Secure Administration
+
+1.All the active content application passwords are stored in RAM
+2.Disconnect is not equal to log off
+3.Principle of least privileges - Never login to lower security zone account
+
+Handling Password
+
+1.Hackers first try all language dictionary words
+2.Then try bruteforce attack - all combinations
+3.We use NTLM hash not LM(LM divides passwords into block)
+4.NTLM used when password atleast is 15 characters
+5.Use KeePass to manage password
